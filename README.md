@@ -1,0 +1,1 @@
+Projeto de Análise de Dados em Excel com tratamento e organização de informações, criação de indicadores, comparação de metas mensais e desenvolvimento de um dashboard interativo. O objetivo é transformar dados brutos em insights claros para apoiar a tomada de decisões baseada em dados.
